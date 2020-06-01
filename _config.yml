@@ -1,7 +1,7 @@
 title: 快乐航的小博客
 author: 快乐航
 description: > # this means to ignore newlines until "show_exerpts:"
-  啥都会点，啥都不精的咸鱼。 
+   
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: /
 
@@ -13,7 +13,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: 快乐航
-  tagline: 一事无成的快乐咸鱼
+  tagline: 啥都会点，啥都不精的快乐咸鱼
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -21,8 +21,10 @@ texture:
 
   # generate social links in footer
   social_links:
+    weibo: xhh999999
     twitter: xhh6622
     github:  HangUpbeat
+    bilibili: 534861
     rss: rss
  
 
