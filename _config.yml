@@ -3,7 +3,7 @@ author: 快乐航
 description: > # this means to ignore newlines until "show_exerpts:"
   啥都会点，啥都不精的咸鱼。 
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /texture
+baseurl: /
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
