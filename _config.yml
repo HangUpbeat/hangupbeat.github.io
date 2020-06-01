@@ -14,7 +14,7 @@ texture:
   title: 快乐航
   tagline: 啥都会点，啥都不精的快乐咸鱼
   date_format: "%b %-d, %Y"
-  style: yellow
+  style: black
   showNav: false
   showPicker: false
 
