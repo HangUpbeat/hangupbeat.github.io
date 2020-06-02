@@ -10,7 +10,6 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 
-baseurl: 
 permalink: /posts/:title/
 texture:
   title: 快乐航
@@ -19,6 +18,11 @@ texture:
   style: red
   showNav: true
   showPicker: false
+  navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: Resume
+      url: "/resume"
 
   # generate social links in footer
   social_links:
