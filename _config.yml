@@ -21,8 +21,8 @@ texture:
   navigation:
     - title: My Work
       url: "/my-work"
-    - title: Resume
-      url: "/resume"
+    - title: Home
+      url: "/"
 
   # generate social links in footer
   social_links:
