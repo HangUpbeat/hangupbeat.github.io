@@ -20,7 +20,7 @@ texture:
   showPicker: false
   navigation:
     - title: Home
-      url: ""
+      url: "https://hangupbeat.github.io/"
 
   # generate social links in footer
   social_links:
