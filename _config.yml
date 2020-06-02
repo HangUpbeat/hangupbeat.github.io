@@ -10,12 +10,13 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 
+permalink: /posts/:title/
 texture:
   title: 快乐航
   tagline: 啥都会点，啥都不精的快乐咸鱼
   date_format: "%b %-d, %Y"
   style: black
-  showNav: false
+  showNav: true
   showPicker: false
 
   # generate social links in footer
@@ -23,6 +24,7 @@ texture:
     weibo: xhh999999
     twitter: xhh6622
     github: HangUpbeat
+    bilibili: 
     rss: rss
  
 
