@@ -13,7 +13,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: 快乐航
-  tagline: 啥都会点，啥都不精的快乐咸鱼
+  tagline: 啥都会点，啥都不精
   date_format: "%b %-d, %Y"
   style: red
   showNav: true
