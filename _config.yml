@@ -1,7 +1,7 @@
 title: 快乐航的小博客
-author: 快乐航
-description: > 偶尔写点什么，大概是技术、代码、数码、游戏攻略之类及相关内容，没什么特别高深的。
-# this means to ignore newlines until "show_exerpts:"
+author: 快乐航HangUpbeat
+description: > # this means to ignore newlines until "show_exerpts:"
+  偶尔写点什么，大概是技术、代码、数码、游戏攻略之类及相关内容，没什么特别高深的。
    
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -28,8 +28,8 @@ texture:
     weibo: xhh999999
     twitter: xhh6622
     github: HangUpbeat
-    bilibili: 6628920
-    rss: 
+    bilibili: '6628920'
+    rss: rss
  
 
 # If you want to link only specific pages in your header, uncomment
